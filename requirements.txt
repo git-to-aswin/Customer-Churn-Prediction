@@ -12,6 +12,7 @@ matplotlib>=3.7
 seaborn>=0.12
 jupyter>=1.0
 nbconvert>=7.0
+ipykernel>=6.0
 shap>=0.44             # optional: signed feature attribution
 
 # Optional — faster gradient boosting. On macOS also needs: brew install libomp
